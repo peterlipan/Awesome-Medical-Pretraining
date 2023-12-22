@@ -1,5 +1,5 @@
 # Awesome-Medical-Pretraining
-## Literature reviews of (Unsupervised) pretraining on medical datasets
+## Literature reviews of (Unsupervised/self-supervised) pretraining on medical datasets
 
 | Name    | Title                                                        | Modalities      | Paper                                                        | Code                                                  |
 | ------- | ------------------------------------------------------------ | --------------- | ------------------------------------------------------------ | ----------------------------------------------------- |
