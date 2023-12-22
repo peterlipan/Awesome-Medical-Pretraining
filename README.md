@@ -10,6 +10,6 @@
 | PRIOR   | PRIOR: Prototype Representation Joint Learning from Medical Images and Reports | Image, Text     | [ICCV'23](https://openaccess.thecvf.com/content/ICCV2023/papers/Cheng_PRIOR_Prototype_Representation_Joint_Learning_from_Medical_Images_and_Reports_ICCV_2023_paper.pdf) | [Link](https://github.com/QtacierP/PRIOR)             |
 | Med-VLP | Towards Unifying Medical Vision-and-Language Pre-training via Soft Prompts | Image, Text     | [ICCV'23](https://arxiv.org/pdf/2302.08958.pdf)              | [Link](https://github.com/zhjohnchan/PTUnifier)       |
 | MRM     | MRM: Masked Relation Modeling for Medical Image Pre-Training with Genetics | Image, Genetics | [ICCV'23](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_MRM_Masked_Relation_Modeling_for_Medical_Image_Pre-Training_with_Genetics_ICCV_2023_paper.pdf) | [Link](https://github.com/CityU-AIM-Group/MRM)        |
-| M3AE    | Multi-Modal Masked Autoencoders for Medical Vision-and-Language Pre-Training | Image, Text     | [MICCAI'22](https://arxiv.org/abs/2209.07098)                | [Link](https://github.com/zhjohnchan/M3AE)            |
+| M3AE    | Multi-Modal Masked Autoencoders for Medical Vision-and-Language Pre-Training | Image, Text     | [MICCAI'22](https://arxiv.org/pdf/2209.07098.pdf)            | [Link](https://github.com/zhjohnchan/M3AE)            |
 |         |                                                              |                 |                                                              |                                                       |
 
